@@ -90,12 +90,12 @@ All <img> tags include meaningful alternatives:
 
 1. Main Page:
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/706e03c6-4047-4e4a-948a-39b199aafcab" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/50411341-6829-46a1-84ed-3658353a9990" />
+
 
 1. Development:
    ```bash
-   https://build-the-full-name-display-impleme.vercel.app/
-
+   https://build-the-country-flags-display-app-beta.vercel.app/
 🧑‍💻 Developer
 
 Dhamodharan S
