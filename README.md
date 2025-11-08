@@ -41,6 +41,7 @@ CSS / Flexbox / Grid
 Fetch API
 
 <h3>📦 Project Structure</h3>
+
 ```base
 src/
 ├── components/
@@ -112,12 +113,12 @@ Frontend Developer | React Enthusiast
 
 📧 Email: dhamodharans206@gmail.com
 
-1. Development:
-   ```bash
-   https://build-the-country-flags-display-app-beta.vercel.app/
-
 🌐 https://github.com/dhamodharanECE
 
 📝 License
 
 This project is open source and available under the MIT License.
+
+1. Development:
+   ```bash
+   https://build-the-country-flags-display-app-beta.vercel.app/
