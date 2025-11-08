@@ -101,7 +101,7 @@ All <img> tags include meaningful alternatives:
 ```
 # 📸 UI Preview
 
-1. Main Page:
+# Main Page:
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/50411341-6829-46a1-84ed-3658353a9990" />
 
@@ -120,7 +120,7 @@ dhamodharans206@gmail.com
 https://github.com/dhamodharanECE
 ```
 
-#📝 License
+# 📝 License
 
 This project is open source and available under the MIT License.
 
