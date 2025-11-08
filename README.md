@@ -119,6 +119,6 @@ Frontend Developer | React Enthusiast
 
 This project is open source and available under the MIT License.
 
-1. Development:
-   ```bash
-   https://build-the-country-flags-display-app-beta.vercel.app/
+Development:
+```bash
+https://build-the-country-flags-display-app-beta.vercel.app/
