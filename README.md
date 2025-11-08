@@ -64,11 +64,13 @@ https://github.com/your-username/react-country-flags.git
 cd react-country-flags
 
 3️⃣ Install Dependencies
+```
 npm install
-
+```
 4️⃣ Start the Application
+```
 npm start
-
+```
 
 The app will run at:
 ```base
@@ -82,15 +84,15 @@ The app will run at:
 Data is fetched using the Fetch API inside a useEffect hook.
 
 If an error occurs, it is logged using:
-
+```
 console.error("Error fetching data: ", error);
-
+```
 ✅ Rendering Country Cards
 
 Each card contains:
-
+```
 Flag image with required alt="<country name> flag"
-
+```
 Country name displayed below the flag
 
 ✅ Accessibility
