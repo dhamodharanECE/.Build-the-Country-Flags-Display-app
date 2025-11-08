@@ -1,12 +1,13 @@
-🌍 Country Flags Viewer – ReactJS Application
-🧭 Overview
+<h1>🌍 Country Flags Viewer – ReactJS Application</h1>
+
+<h3>🧭 Overview</h3>
 
 This project is a ReactJS-based UI that fetches and displays country flags and names using a public API.
 The user can scroll to view more flags, and every flag is displayed with proper accessibility features and error handling.
 
 This project demonstrates core frontend skills such as API fetching, React hooks, error handling, responsive rendering, and clean component structure.
 
-🚀 Features
+<h3>🚀 Features</h3>
 
 ✅ Fetches all country data from the API
 ✅ Displays country flag (image) + country name
@@ -16,7 +17,7 @@ This project demonstrates core frontend skills such as API fetching, React hooks
 ✅ Scrollable list of country cards
 ✅ Written using React Functional Components + Hooks
 
-🔗 API Used
+<h3>🔗 API Used</h3>
 
 Countries data is fetched from:
 ```base
@@ -29,7 +30,7 @@ name – Country name
 
 flag – Image URL of the country’s flag
 
-🧠 Tech Stack
+<h3>🧠 Tech Stack</h3>
 
 ReactJS (Functional Components)
 
@@ -39,7 +40,7 @@ CSS / Flexbox / Grid
 
 Fetch API
 
-📦 Project Structure
+<h3>📦 Project Structure</h3>
 ```base
 src/
 ├── components/
@@ -48,7 +49,7 @@ src/
 ├── App.css
 └── index.js
 ```
-⚡ Getting Started
+<h3>⚡ Getting Started</h3>
 
 1️⃣ Clone the Repository
 
@@ -73,7 +74,7 @@ The app will run at:
 👉 http://localhost:3000
 ```
 
-🧩 Implementation Details
+<h3>🧩 Implementation Details</h3>
 
 ✅ Fetching Data
 
@@ -97,22 +98,23 @@ All <img> tags include meaningful alternatives:
 ```base
 <img src={flag} alt={`${name} flag`} />
 ```
-📸 UI Preview
+<h3>📸 UI Preview</h3>
 
 1. Main Page:
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/50411341-6829-46a1-84ed-3658353a9990" />
 
+<h3>🧑‍💻 Developer</h3>
+
+Dhamodharan S
+
+Frontend Developer | React Enthusiast
+
+📧 Email: dhamodharans206@gmail.com
 
 1. Development:
    ```bash
    https://build-the-country-flags-display-app-beta.vercel.app/
-🧑‍💻 Developer
-
-Dhamodharan S
-Frontend Developer | React Enthusiast
-
-📧 Email: dhamodharans206@gmail.com
 
 🌐 https://github.com/dhamodharanECE
 
