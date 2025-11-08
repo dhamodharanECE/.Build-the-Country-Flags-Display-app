@@ -19,9 +19,9 @@ This project demonstrates core frontend skills such as API fetching, React hooks
 🔗 API Used
 
 Countries data is fetched from:
-
+```base
 https://xcountries-backend.labs.crio.do/all
-
+```
 
 A single object includes:
 
@@ -40,18 +40,25 @@ CSS / Flexbox / Grid
 Fetch API
 
 📦 Project Structure
+```base
 src/
 ├── components/
 │   └── CountryCard.jsx
 ├── App.js
 ├── App.css
 └── index.js
-
+```
 ⚡ Getting Started
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/react-country-flags.git
+
+git clone 
+```base
+https://github.com/your-username/react-country-flags.git
+```
 
 2️⃣ Navigate into the Project Folder
+
 cd react-country-flags
 
 3️⃣ Install Dependencies
@@ -62,12 +69,16 @@ npm start
 
 
 The app will run at:
+```base
 👉 http://localhost:3000
+```
 
 🧩 Implementation Details
+
 ✅ Fetching Data
 
 Data is fetched using the Fetch API inside a useEffect hook.
+
 If an error occurs, it is logged using:
 
 console.error("Error fetching data: ", error);
@@ -83,9 +94,9 @@ Country name displayed below the flag
 ✅ Accessibility
 
 All <img> tags include meaningful alternatives:
-
+```base
 <img src={flag} alt={`${name} flag`} />
-
+```
 📸 UI Preview
 
 1. Main Page:
